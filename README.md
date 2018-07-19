@@ -7,18 +7,18 @@ steps:
                -- Details : the applicants fill the form on the website
                -- The deadline for applying.
 
-2.  The form details sent to some kind of backend  (( database for instance )) .
+2.  The form details sent to some kind of backend (( database for instance )) .
 3. Auto Reply: → Email for hack your future
-                                        ↳ Email for applicants asking for CV and motivation letter.   
-4. HYF receiving emails which contain CV and motivation                   letters from applicants.
+               ↳ Email for applicants asking for CV and motivation letter.   
+4. HYF receiving emails which contain CV and motivation letters from applicants.
 5. Putting the cv and motivation letters in google drive.
 6. Gijs gives a score for the cv and motivation letters.
 7. Selection:   → No → Sending rejecting emails.
-                             ↳ Yes      
-                                ↓
+                 ↳ Yes      
+                   ↓
 8. Sending emails to the remaining applicants about the test  assignment (( including the deadline to deliver the assignment )).
-                                            → Khan academy Course and exercises.
-                                            ↳ Codepen challenge.  
+         → Khan academy Course and exercises.
+         ↳ Codepen challenge.  
 9. Receiving the assignment by email.
 10. Combine the assignment with the applicant’s cv and motivation letters.
 11. Maartje gives score for the technical assignments.
