@@ -1,0 +1,47 @@
+1.announcement :
+a) Via website and social media.
+b) Requirements : CV, motivation letter, good english level.
+c) Putting deadline for apply.
+
+2.The applicant fills the form on the website.
+
+3.Auto reply : 
+a) Email for HYF.
+b) Email for the applicant asking for the CV and motivation letter.
+
+4.Receiving an email which contain the CV and motivation letter from the applicant.
+
+5.Putting the CV and motivation letter in google drive.
+
+6.Gijs gives score for the CV and motivation letter.
+
+7.Rejecting some applicants :
+a) send email to them.
+
+8.Sending emails to the remaining applicants about the assignment (Khan academy).
+
+9.Putting deadline to deliver the assignment.
+
+10.Receiving the assignments from the applicants by email.
+
+11.Combine the assignment with the applicant's CV and motivation letter.
+
+12.Maartje gives Score for the technical assignment.
+
+13.Choose the best assignments and put them in a call list.
+
+14.Send email to the rejected applicants.
+
+15.Send emails to all the applicants in the call list to schedule the interview.
+
+16.Call the applicants and making notes based on the call.
+
+17.Merging the notes with the old data.
+
+18.Make a judgment based on all scores and notes and divide them to categories :
+a) YES.
+b) Maybe.
+c) NO, send them rejection email.
+
+19.Creating new class and send emails to the accepted applicants.  
+
