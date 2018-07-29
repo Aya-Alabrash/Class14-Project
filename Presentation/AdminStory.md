@@ -1,4 +1,4 @@
-﻿Admin Story 
+Admin Story 
 _________________________
 
 1.  As an admin i expect to create new google sheet (template).
@@ -30,4 +30,3 @@ _________________________
 27-	As an admin I expect to choose the best scores from the waiting list in a case that the class isn’t complete .
 28-	 As an admin I expect to send an email to all the selected applicants provided by information about the next class.
 29-	As an admin I expect to CREATE a new class.
-30-	 :3 
